@@ -7,3 +7,4 @@ Course material: University of Michigan in Coursera. You can find more informati
 
 Authors: Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 
+https://github.com/subassk/Wheel-of-Python/blob/master/WHEELOFFORTUNEQUES.docx
