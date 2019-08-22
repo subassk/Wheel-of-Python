@@ -1,4 +1,4 @@
-                        WHEEL OF PYTHON
+        WHEEL OF PYTHON
 
         Simplified version of Wheel of Fortune
         
